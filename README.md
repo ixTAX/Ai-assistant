@@ -7,7 +7,6 @@ This project is a simple voice assistant that:
 - Sends the text to **Cohere AI** to generate a short, helpful response.
 - Converts the AI response back to speech using **RealtimeTTS**.
 
----
 
 ## How It Works
 
@@ -20,7 +19,6 @@ This project is a simple voice assistant that:
 3. **Text-to-Speech (TTS):**  
    The AI-generated answer is converted into speech and played aloud using RealTimeTTS.
 
----
 
 ## Usage
 
