@@ -32,7 +32,7 @@ This project is a simple voice assistant that:
    After the answer of the Ai assistant you can continue speaking with the Ai, you have to wait for its answer first.
 
 ## Requirements
-- Python 10.8 (What is used in this project, other versions might work)
+- Python 3.10.8 (What is used in this project, other versions might work)
 - `RealtimeSTT` package, run "pip install RealtimeSTT" in your command prompt.
 - `RealtimeTTS` package, run "pip install -U realtimetts[all]" in your command prompt.
 - `cohere` Python SDK.
